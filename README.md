@@ -1,0 +1,1 @@
+poc-self-registering-module
